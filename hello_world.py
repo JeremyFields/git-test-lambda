@@ -1,1 +1,1 @@
-print("Hello main parent")
+print("Hello main forked")
