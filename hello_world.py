@@ -1,1 +1,1 @@
-print("Hello main forked")
+print("Hello main print")
